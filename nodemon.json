@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "vinod",
+    "MONGO_PASSWORD": "gKe0rQwGgdVtv4Xu",
+    "MONGO_DB": "events-graphql"
+  }
+}
