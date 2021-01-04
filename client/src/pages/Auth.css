@@ -1,0 +1,18 @@
+.auth-form {
+  width: 25rem;
+  max-width: 80%;
+  margin: 5rem auto;
+}
+
+.form-heading {
+  margin: 15px auto;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.form-text {
+  text-decoration: underline;
+  color: blueviolet;
+  cursor: pointer;
+}
